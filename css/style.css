@@ -39,6 +39,8 @@ ul li {
   margin-bottom: 6.25rem; }
   .nav .nav-items {
     display: flex; }
+  .nav .nav-items-right {
+    margin-left: auto; }
   .nav .nav-link > a {
     padding: .25rem .5rem;
     font-weight: 600;
