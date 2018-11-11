@@ -1,3 +1,2 @@
-// Here goes my JavaScript code
-
-
+// Here goes your JavaScript code
+let evenCase = document.getElementsByClassName("even");
