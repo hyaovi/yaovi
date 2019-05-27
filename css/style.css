@@ -25,10 +25,14 @@ body {
 	-webkit-text-fill-color: transparent;
 }
 
-.icon {
+.icon,
+.icons {
 	cursor: pointer;
+	transition: 0.1s ease-in-out !important;
 }
-.icon:hover {
+
+.icon:hover,
+.icons a:hover {
 	background: -webkit-linear-gradient(315deg, #e74d53, #efb81a);
 	-webkit-background-clip: text;
 	-webkit-text-fill-color: transparent;
